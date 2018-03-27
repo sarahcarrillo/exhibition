@@ -1,0 +1,54 @@
+p {
+	font-family: arial;
+	font-size: 16px
+}
+
+body{
+	background-color:#A5DBFF;
+	display: grid;
+	min-height: 97vh
+	
+}
+
+h1{
+	color: black;
+	text-align: center;
+	font-size: 35px
+}
+	
+	
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden; 
+	background-color: white;
+
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #white;
+}
+
+h2{
+	font-size: 25px
+	
+}
+h3{
+	text-align: center
+}
+
+
+
